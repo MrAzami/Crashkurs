@@ -1,0 +1,1 @@
+print(list(map(lambda x:x+42,range(10))))
