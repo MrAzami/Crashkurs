@@ -1,5 +1,6 @@
 try:
-    eingabe = input("Zahl eingeben: ")
+    eingabe = input("Zahl eingeben: ")  
+
     print(int(eingabe))
 
 except:# tritt beim Fehler ein
